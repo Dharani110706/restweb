@@ -636,10 +636,11 @@ about.html
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-05-07 050030.png>) 
-![alt text](<Screenshot 2025-05-07 051839.png>)
-![alt text](<Screenshot 2025-05-07 050009.png>) 
-![alt text](<Screenshot 2025-05-07 050021.png>)
+
+![alt text](<Screenshot 2025-05-07 045953-1.png>)
+![alt text](<Screenshot 2025-05-07 051839-2.png>)
+![alt text](<Screenshot 2025-05-07 050021-1.png>)
+![alt text](<Screenshot 2025-05-07 050030-1.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
